@@ -1,11 +1,11 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "ownerNumber": "62881038727987@s.whatsapp.net",
+    "ownerName": "Sage",
+    "botName": "Sage-Md",
     "footer": "Xcode Team",
     "sessionName": "session",
-    "pathimg": "./media/hinata.jpg",
-    "lolkey": "Beli Sendiri",
+    "pathimg": "",
+    "lolkey": "",
     "youtube": "https://youtube.com/c/Riy04",
     "instagram": "https://instagram.com/riychdwayne",
     "gamewaktu": 90,
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "Sage-Md",
+        "author": "By Sage"
     }
 }
